@@ -1,0 +1,42 @@
+# 仮想化フォルダを無視する
+myenv/
+dist/
+build/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Logs
+*.log
+error_log.csv
+inspection.log
+
+# Settings
+settings.json
+
+# Misc
+*.exe
+*.ico
+
+# data / exports
+*.csv
+*.tsv
+*.parquet
+*.xlsx
+*.zip
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
