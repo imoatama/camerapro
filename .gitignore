@@ -40,3 +40,7 @@ settings.json
 .DS_Store
 Thumbs.db
 .vscode/
+
+#gazou
+.captures/
+captures/
